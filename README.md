@@ -1,6 +1,8 @@
 # 🚀 React Coding Problems Collection
 
-This repository contains multiple **React coding problems and their solutions**, commonly asked in frontend interviews.
+This repository contains **React coding problems and solutions** that are commonly asked in frontend interviews.
+
+💡 Some of these problems are inspired by real interview rounds, including companies like **Goldman Sachs**.
 
 ---
 
@@ -10,7 +12,7 @@ This repository contains multiple **React coding problems and their solutions**,
 
 * Toggle task completion
 * Display completed task count
-* Component separation (Parent & Child)
+* Parent-child component communication
 
 ---
 
@@ -22,17 +24,17 @@ This repository contains multiple **React coding problems and their solutions**,
 
 ---
 
-### 3️⃣ Advanced Todo List
+### 3️⃣ Advanced Todo List (Goldman Sachs Inspired)
 
 * Persistent storage
 * Auto sorting (completed items at bottom)
 * Delete functionality
 * Timestamps (`created_at`, `completed_at`)
-* Optimized state handling
+* Optimized state updates
 
 ---
 
-### 4️⃣ Star Rating Cards
+### 4️⃣ Star Rating Cards (Goldman Sachs Round 2)
 
 * Multiple cards with ⭐ rating system
 * Independent state per card
@@ -77,9 +79,9 @@ npm start
 
 ## 📌 Notes
 
-* The project is structured for **interview preparation**
-* Focus is on **clean code, logic, and best practices**
-* Each problem demonstrates **real-world React concepts**
+* These problems are based on **real-world frontend interview scenarios**
+* Focus is on **clean code, performance, and scalability**
+* Helps in preparing for **product-based companies like Goldman Sachs**
 
 ---
 
@@ -89,13 +91,7 @@ This repo is designed to:
 
 * Practice frontend interview questions
 * Strengthen React fundamentals
-* Build reusable and scalable components
-
----
-
-## 🤝 Contributing
-
-Feel free to fork the repo and add more problems or improvements.
+* Build real-world problem-solving skills
 
 ---
 
